@@ -1,1 +1,7 @@
-
+body {background-color: ghostwhite;}
+.button {
+    background-color: cornflowerblue;
+}
+div:hover{
+    width: 300px;
+}
